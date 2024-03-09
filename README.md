@@ -1,1 +1,1 @@
-# IPL_Data_Analysis_Power BI
+# Power-BI_IPL_Data_Analysis_Project
